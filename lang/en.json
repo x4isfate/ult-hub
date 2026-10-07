@@ -36,7 +36,7 @@
   "ULTHUB.Compat.UnverifiedHint": "This module was verified only for Foundry {verified}. It may still run on Foundry {core}, but that is not confirmed.",
 
   "ULTHUB.Catalog.loadingScreen.Description": "A cinematic loading screen with themes, progress styles, tips and sound, all set up in one window with a live preview.",
-  "ULTHUB.Catalog.sessionRating.Description": "Lets you and your players rate game sessions together.",
+  "ULTHUB.Catalog.sessionRating.Description": "Players rate the game master after a session: five sliders, optional notes, anonymous or named voting, history and a trend chart.",
   "ULTHUB.Soon.Note": "Not released yet.",
 
   "ULTHUB.Panel.Notes.Title": "Release {tag}",

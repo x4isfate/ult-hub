@@ -36,7 +36,7 @@
   "ULTHUB.Compat.UnverifiedHint": "Dieses Modul wurde nur für Foundry {verified} geprüft. Es kann trotzdem unter Foundry {core} laufen, ist dort aber nicht bestätigt.",
 
   "ULTHUB.Catalog.loadingScreen.Description": "Ein filmischer Ladebildschirm mit Designs, Fortschrittsstilen, Tipps und Ton – alles in einem Fenster mit Live-Vorschau einstellbar.",
-  "ULTHUB.Catalog.sessionRating.Description": "Damit bewertest du gemeinsam mit deinen Spielenden eure Spielrunden.",
+  "ULTHUB.Catalog.sessionRating.Description": "Spielende bewerten nach der Runde die Spielleitung: fünf Schieberegler, optionale Notizen, anonyme oder namentliche Abstimmung, Verlauf und Trenddiagramm.",
   "ULTHUB.Soon.Note": "Noch nicht veröffentlicht.",
 
   "ULTHUB.Panel.Notes.Title": "Version {tag}",

@@ -36,7 +36,7 @@
   "ULTHUB.Compat.UnverifiedHint": "Этот модуль проверен только для Foundry {verified}. Он может работать и на Foundry {core}, но это не подтверждено.",
 
   "ULTHUB.Catalog.loadingScreen.Description": "Кинематографичный экран загрузки: темы, стили индикатора, подсказки и звук — всё настраивается в одном окне с живым предпросмотром.",
-  "ULTHUB.Catalog.sessionRating.Description": "Оценка игровых сессий вместе с игроками.",
+  "ULTHUB.Catalog.sessionRating.Description": "Игроки оценивают ведущего после сессии: пять ползунков, заметки, анонимное или именное голосование, история и график динамики.",
   "ULTHUB.Soon.Note": "Пока не выпущен.",
 
   "ULTHUB.Panel.Notes.Title": "Версия {tag}",
