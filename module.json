@@ -2,7 +2,7 @@
   "id": "ult-hub",
   "title": "ULT's Module Hub",
   "description": "One window for all of your ULT modules: what is installed, which version, what is new, and a quick way to open each module's settings. Checks GitHub for new releases, shows what changed, and copies install links and a bug-report summary. Small on purpose.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "authors": [
     {
       "name": "4isfate",
@@ -11,7 +11,7 @@
   ],
   "url": "https://github.com/x4isfate/ult-hub",
   "manifest": "https://github.com/x4isfate/ult-hub/releases/latest/download/module.json",
-  "download": "https://github.com/x4isfate/ult-hub/releases/download/v0.1.0/ult-hub.zip",
+  "download": "https://github.com/x4isfate/ult-hub/releases/download/v0.1.1/ult-hub.zip",
   "bugs": "https://github.com/x4isfate/ult-hub/issues",
   "changelog": "https://github.com/x4isfate/ult-hub/blob/main/CHANGELOG.md",
   "readme": "https://github.com/x4isfate/ult-hub/blob/main/README.md",

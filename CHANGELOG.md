@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.1 — documentation fixes
+
+### Fixed
+- The Session Rating tile description now says that players rate the game master, with the real feature list (en, ru, de).
+
 ## 0.1.0 — first version
 
 ### Added
